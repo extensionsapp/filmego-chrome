@@ -1,0 +1,230 @@
+{
+    "name": {
+        "message": "Смотри и скачай своё кино! [FE]",
+        "description": "Название"
+    },
+    "description": {
+        "message": "Надоело искать фильмы на торрентах, ВК, онлайн-кинотеатрах? Смотрите и скачивайте сразу на любом киносайте (КиноПоиск и др.)",
+        "description": "Описание"
+    },
+
+    "menuTranslate": {
+        "message": "Качество озвучивания",
+        "description": "Меню (озвучивание)"
+    },
+    "idealTranslate": {
+        "message": "Идеальное (дубляж)",
+        "description": "Тип озвучивания"
+    },
+    "profTranslate": {
+        "message": "Профессиональное (одноголосое / двухголосое)",
+        "description": "Тип озвучивания"
+    },
+    "authorTranslate": {
+        "message": "Авторское (Гоблин / Гаврилов / Сербин и др.)",
+        "description": "Тип озвучивания"
+    },
+    "amateurTranslate": {
+        "message": "Любительское (одноголосое / двухголосое)",
+        "description": "Тип озвучивания"
+    },
+    "subTranslate": {
+        "message": "Субтитры",
+        "description": "Тип озвучивания"
+    },
+    "allTranslate": {
+        "message": "Любое",
+        "description": "Тип озвучивания"
+    },
+    "torrentTranslate1": {
+        "message": "идеальное",
+        "description": "Тип озвучивания для бейджа"
+    },
+    "torrentTranslate2": {
+        "message": "профессиональное",
+        "description": "Тип озвучивания для бейджа"
+    },
+    "torrentTranslate3": {
+        "message": "авторское",
+        "description": "Тип озвучивания для бейджа"
+    },
+    "torrentTranslate4": {
+        "message": "любительское",
+        "description": "Тип озвучивания для бейджа"
+    },
+    "torrentTranslate5": {
+        "message": "субтитры",
+        "description": "Тип озвучивания для бейджа"
+    },
+    "torrentTranslate6": {
+        "message": "с кинотеатра",
+        "description": "Тип озвучивания для бейджа"
+    },
+
+    "menuQuality": {
+        "message": "Качество видео",
+        "description": "Меню (качество)"
+    },
+    "idealQuality": {
+        "message": "Идеальное (DVD5, DVD9, Blue-Ray)",
+        "description": "Тип качества"
+    },
+    "goodQuality": {
+        "message": "Хорошее (DVDRip, BDRip)",
+        "description": "Тип качества"
+    },
+    "badQuality": {
+        "message": "Плохое (CAMRip, TS)",
+        "description": "Тип качества"
+    },
+    "kpkQuality": {
+        "message": "Для планшета (меньше 700 Мб)",
+        "description": "Тип качества"
+    },
+    "allQuality": {
+        "message": "Любое",
+        "description": "Тип качества "
+    },
+    "torrentQuality1": {
+        "message": "плохое",
+        "description": "Тип качества для бейджа"
+    },
+    "torrentQuality2": {
+        "message": "хорошее",
+        "description": "Тип качества для бейджа"
+    },
+    "torrentQuality3": {
+        "message": "идеальное",
+        "description": "Тип качества для бейджа"
+    },
+    "torrentQuality4": {
+        "message": "для планшета",
+        "description": "Тип качества для бейджа"
+    },
+
+    "menuType": {
+        "message": "Версия видео",
+        "description": "Меню (версия)"
+    },
+    "extendedType": {
+        "message": "Расширенная (дополнительные сцены)",
+        "description": "Тип версии"
+    },
+    "theatricalType": {
+        "message": "Театральная (адаптирована для театра)",
+        "description": "Тип версии"
+    },
+    "directedType": {
+        "message": "Режиссерская (как хотел режиссер)",
+        "description": "Тип версии"
+    },
+    "alternativeType": {
+        "message": "Альтернативная (другая концовка фильма)",
+        "description": "Тип версии"
+    },
+    "allType": {
+        "message": "Любая",
+        "description": "Тип версии"
+    },
+    "torrentType1": {
+        "message": "расширенная",
+        "description": "Тип версии для бейджа"
+    },
+    "torrentType2": {
+        "message": "театральная",
+        "description": "Тип версии для бейджа"
+    },
+    "torrentType3": {
+        "message": "режиссерская",
+        "description": "Тип версии для бейджа"
+    },
+    "torrentType4": {
+        "message": "альтернативная",
+        "description": "Тип версии для бейджа"
+    },
+    "torrentType5": {
+        "message": "трейлер",
+        "description": "Тип версии для бейджа"
+    },
+
+    "menuAbout": {
+        "message": "Нашли ошибку?",
+        "description": "Меню (ошибка)"
+    },
+
+    "menuHelp": {
+        "message": "Краткая помощь новичку",
+        "description": "Меню (помощь)"
+    },
+    "onlineHelp": {
+        "message": "просмотр торрентов онлайн (через ACE Stream)",
+        "description": "Меню (онлайн)"
+    },
+    "downloadHelp": {
+        "message": "скачивание торрента (работает НЕ всегда)",
+        "description": "Меню (скачать торрент)"
+    },
+    "magnetHelp": {
+        "message": "скачивание по magnet-ссылке (работает всегда)",
+        "description": "Меню (скачать magnet)"
+    },
+    "updownHelp": {
+        "message": "голосование за раздачи",
+        "description": "Меню (голосование)"
+    },
+    "linkHelp": {
+        "message": "переход на трекер раздачи",
+        "description": "Меню (трекер)"
+    },
+
+    "menuFilterOn": {
+        "message": "Под Ваш фильтр",
+        "description": "Меню (фильтр включен)"
+    },
+    "menuFilterOff": {
+        "message": "Все ссылки",
+        "description": "Меню (фильтр выключен)"
+    },
+    "menuOnline": {
+        "message": "Онлайн",
+        "description": "Меню (онлайн)"
+    },
+
+    "alertNotData": {
+        "message": "Нет данных!",
+        "description": "Сообщение (нет данных)"
+    },
+    "alertSave": {
+        "message": "Изменения сохранены! Закройте и снова откройте приложение!",
+        "description": "Сообщение (сохранения фильтра)"
+    },
+    "alertSaveMenu": {
+        "message": "сохранено",
+        "description": "Сообщение в меню (сохранения фильтра)"
+    },
+    "menuSearch": {
+        "message": "искать",
+        "description": "Меню (поиск)"
+    },
+    "menuSearchPlaceholder": {
+        "message": "название фильма ...",
+        "description": "Меню (подсказка в поиске)"
+    },
+    "download": {
+        "message": "скачать",
+        "description": "В списке ссылок"
+    },
+    "online": {
+        "message": "смотреть",
+        "description": "В списке ссылок"
+    },
+
+    "yeahNewVersion": {
+        "message": "Обновитесь до версии",
+        "description": "Оповещение"
+    },
+    "updateNewVersion": {
+        "message": "как?",
+        "description": "Оповещение"
+    }
+}

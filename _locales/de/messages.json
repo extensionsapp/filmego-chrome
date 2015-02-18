@@ -1,0 +1,230 @@
+{
+    "name": {
+        "message": "FILMEGO - Wachet und Download von Filmen!",
+        "description": "Name"
+    },
+    "description": {
+        "message": "Ansehen oder downloaden filme zu jeder website.",
+        "description": "Beschreibung"
+    },
+
+    "menuTranslate": {
+        "message": "Die qualität der sound",
+        "description": "Menü (Stimme)"
+    },
+    "idealTranslate": {
+        "message": "Die ideale",
+        "description": "Typ sound"
+    },
+    "profTranslate": {
+        "message": "Professional",
+        "description": "Typ sound"
+    },
+    "authorTranslate": {
+        "message": "Urheberrecht",
+        "description": "Typ sound"
+    },
+    "amateurTranslate": {
+        "message": "Amateur",
+        "description": "Typ sound"
+    },
+    "subTranslate": {
+        "message": "Untertitel",
+        "description": "Typ sound"
+    },
+    "allTranslate": {
+        "message": "Any",
+        "description": "Typ sound"
+    },
+    "torrentTranslate1": {
+        "message": "perfekt",
+        "description": "Typ soundfür das abzeichen"
+    },
+    "torrentTranslate2": {
+        "message": "profi",
+        "description": "Typ soundfür das abzeichen"
+    },
+    "torrentTranslate3": {
+        "message": "urheberrecht",
+        "description": "Typ soundfür das abzeichen"
+    },
+    "torrentTranslate4": {
+        "message": "amateur",
+        "description": "Typ soundfür das abzeichen"
+    },
+    "torrentTranslate5": {
+        "message": "untertitel",
+        "description": "Typ soundfür das abzeichen"
+    },
+    "torrentTranslate6": {
+        "message": "ein theater",
+        "description": "Typ soundfür das abzeichen"
+    },
+
+    "menuQuality": {
+        "message": "Video quality",
+        "description": "Menü (Qualität)"
+    },
+    "idealQuality": {
+        "message": "Die ideale (DVD5, DVD9, Blue-Ray)",
+        "description": "Qualität type"
+    },
+    "goodQuality": {
+        "message": "Good (DVDRip, BDRip)",
+        "description": "Qualität type"
+    },
+    "badQuality": {
+        "message": "Armes (CAMRip, TS)",
+        "description": "Qualität type"
+    },
+    "kpkQuality": {
+        "message": "Für die tablette (> 700 MB)",
+        "description": "Qualität type"
+    },
+    "allQuality": {
+        "message": "Any",
+        "description": "Qualität type"
+    },
+    "torrentQuality1": {
+        "message": "schlecht",
+        "description": "Qualität type für das abzeichen"
+    },
+    "torrentQuality2": {
+        "message": "gut",
+        "description": "Qualität type für das abzeichen"
+    },
+    "torrentQuality3": {
+        "message": "perfekt",
+        "description": "Qualität type für das abzeichen"
+    },
+    "torrentQuality4": {
+        "message": "tablet",
+        "description": "Qualität type für das abzeichen"
+    },
+
+    "menuType": {
+        "message": "Version des video",
+        "description": "Menü (version)"
+    },
+    "extendedType": {
+        "message": "Erweiterte",
+        "description": "Typ version"
+    },
+    "theatricalType": {
+        "message": "Theater",
+        "description": "Typ version"
+    },
+    "directedType": {
+        "message": "Direktors",
+        "description": "Typ version"
+    },
+    "alternativeType": {
+        "message": "Alternative",
+        "description": "Typ version"
+    },
+    "allType": {
+        "message": "Any",
+        "description": "Typ version"
+    },
+    "torrentType1": {
+        "message": "erweitert",
+        "description": "Typ version für das abzeichen"
+    },
+    "torrentType2": {
+        "message": "theater",
+        "description": "Typ version für das abzeichen"
+    },
+    "torrentType3": {
+        "message": "direktor",
+        "description": "Typ version für das abzeichen"
+    },
+    "torrentType4": {
+        "message": "alternative",
+        "description": "Typ version für das abzeichen"
+    },
+    "torrentType5": {
+        "message": "trailer",
+        "description": "Typ version für das abzeichen"
+    },
+
+    "menuAbout": {
+        "message": "Datenfehler gefunden?",
+        "description": "Menü (fehler)"
+    },
+
+    "menuHelp": {
+        "message": "Schnellhilfe für newbies",
+        "description": "Menü (hilfe)"
+    },
+    "onlineHelp": {
+        "message": "vorschau torrents online (durch ACE Stream)",
+        "description": "Menü (online)"
+    },
+    "downloadHelp": {
+        "message": "download torrent (nicht immer funktioniert)",
+        "description": "Menü (download torrent)"
+    },
+    "magnetHelp": {
+        "message": "download magnet-link (funktioniert immer)",
+        "description": "Menü (download magnet)"
+    },
+    "updownHelp": {
+        "message": "stimme für die verteilung",
+        "description": "Menü (abstimmung)"
+    },
+    "linkHelp": {
+        "message": "der ubergang an den tracker verteilung",
+        "description": "Menü (tracker)"
+    },
+
+    "menuFilterOn": {
+        "message": "Unter den filter",
+        "description": "Menü (filter aktiviert)"
+    },
+    "menuFilterOff": {
+        "message": "Alle verbindungen",
+        "description": "Menü (filter aus)"
+    },
+    "menuOnline": {
+        "message": "Online",
+        "description": "Menü (online)"
+    },
+
+    "alertNotData": {
+        "message": "No data!",
+        "description": "Message (mo data)"
+    },
+    "alertSave": {
+        "message": "Änderungen gespeichert schließen und wieder öffnen die App!",
+        "description": "Message (speichern sie die filter)"
+    },
+    "alertSaveMenu": {
+        "message": "speichern",
+        "description": "Nachricht aus dem menü (speichern sie die filter)"
+    },
+    "menuSearch": {
+        "message": "suche",
+        "description": "Menü (suche)"
+    },
+    "menuSearchPlaceholder": {
+        "message": "name des films ..",
+        "description": "Menü (hinweis zu finden)"
+    },
+    "download": {
+        "message": "download",
+        "description": "Die liste der referenzen"
+    },
+    "online": {
+        "message": "look",
+        "description": "Die liste der referenzen"
+    },
+
+    "yeahNewVersion": {
+        "message": "Update auf die version",
+        "description": "Alert"
+    },
+    "updateNewVersion": {
+        "message": "wie?",
+        "description": "Alert"
+    }
+}

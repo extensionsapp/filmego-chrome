@@ -1,0 +1,230 @@
+{
+    "name": {
+        "message": "Online and download your movie! [FE]",
+        "description": "Title"
+    },
+    "description": {
+        "message": "Tired of searching for movies torrents, online cinemas? View and download directly to any movie site (IMDb, RT, etc.)",
+        "description": "Description"
+    },
+
+    "menuTranslate": {
+        "message": "Quality sound",
+        "description": "Menu (translate)"
+    },
+    "idealTranslate": {
+        "message": "Dubbing",
+        "description": "Type translate"
+    },
+    "profTranslate": {
+        "message": "Professional voice",
+        "description": "Type translate"
+    },
+    "authorTranslate": {
+        "message": "Author voice",
+        "description": "Type translate"
+    },
+    "amateurTranslate": {
+        "message": "Amateur voice",
+        "description": "Type translate"
+    },
+    "subTranslate": {
+        "message": "Subtitles",
+        "description": "Type translate"
+    },
+    "allTranslate": {
+        "message": "Any",
+        "description": "Type translate"
+    },
+    "torrentTranslate1": {
+        "message": "dubbing",
+        "description": "Type translate for label"
+    },
+    "torrentTranslate2": {
+        "message": "professional",
+        "description": "Type translate for label"
+    },
+    "torrentTranslate3": {
+        "message": "author",
+        "description": "Type translate for label"
+    },
+    "torrentTranslate4": {
+        "message": "amateur",
+        "description": "Type translate for label"
+    },
+    "torrentTranslate5": {
+        "message": "subtitles",
+        "description": "Type translate for label"
+    },
+    "torrentTranslate6": {
+        "message": "theater sound",
+        "description": "Type translate for label"
+    },
+
+    "menuQuality": {
+        "message": "Quality video",
+        "description": "Menu (quality)"
+    },
+    "idealQuality": {
+        "message": "Perfect (DVD5, DVD9, Blue-Ray)",
+        "description": "Type quality"
+    },
+    "goodQuality": {
+        "message": "Good (DVDRip, BDRip)",
+        "description": "Type quality"
+    },
+    "badQuality": {
+        "message": "Bad (CAMRip, TS)",
+        "description": "Type quality"
+    },
+    "kpkQuality": {
+        "message": "Tablet (less than 700 MB)",
+        "description": "Type quality"
+    },
+    "allQuality": {
+        "message": "Any",
+        "description": "Type quality"
+    },
+    "torrentQuality1": {
+        "message": "bad",
+        "description": "Type quality for label"
+    },
+    "torrentQuality2": {
+        "message": "good",
+        "description": "Type quality for label"
+    },
+    "torrentQuality3": {
+        "message": "perfect",
+        "description": "Type quality for label"
+    },
+    "torrentQuality4": {
+        "message": "for tablet",
+        "description": "Type quality for label"
+    },
+
+    "menuType": {
+        "message": "Version video",
+        "description": "Menu (version)"
+    },
+    "extendedType": {
+        "message": "Extended",
+        "description": "Type version"
+    },
+    "theatricalType": {
+        "message": "Theatrical",
+        "description": "Type version"
+    },
+    "directedType": {
+        "message": "Directed",
+        "description": "Type version"
+    },
+    "alternativeType": {
+        "message": "Alternative",
+        "description": "Type version"
+    },
+    "allType": {
+        "message": "Any",
+        "description": "Type version"
+    },
+    "torrentType1": {
+        "message": "extended",
+        "description": "Type version for label"
+    },
+    "torrentType2": {
+        "message": "theatrical",
+        "description": "Type version for label"
+    },
+    "torrentType3": {
+        "message": "directed",
+        "description": "Type version for label"
+    },
+    "torrentType4": {
+        "message": "alternative",
+        "description": "Type version for label"
+    },
+    "torrentType5": {
+        "message": "trailer",
+        "description": "Type version for label"
+    },
+
+    "menuAbout": {
+        "message": "Send error",
+        "description": "Menu (send error)"
+    },
+
+    "menuHelp": {
+        "message": "Help",
+        "description": "Menu (help user)"
+    },
+    "onlineHelp": {
+        "message": "watch torrent online (ACE Stream)",
+        "description": "Menu (online)"
+    },
+    "downloadHelp": {
+        "message": "download torrent (does not always works)",
+        "description": "Menu (download torrent)"
+    },
+    "magnetHelp": {
+        "message": "download magnet-link (always works)",
+        "description": "Menu (download magnet)"
+    },
+    "updownHelp": {
+        "message": "voting",
+        "description": "Menu (voting)"
+    },
+    "linkHelp": {
+        "message": "link torrent tracker",
+        "description": "Menu (tracker)"
+    },
+
+    "menuFilterOn": {
+        "message": "Links for your filter",
+        "description": "Menu (filter on)"
+    },
+    "menuFilterOff": {
+        "message": "All links",
+        "description": "Menu (filter off)"
+    },
+    "menuOnline": {
+        "message": "Online",
+        "description": "Menu (online)"
+    },
+
+    "alertNotData": {
+        "message": "Not data!",
+        "description": "Alert (not data)"
+    },
+    "alertSave": {
+        "message": "Changes have been saved! Close and reopen the app!",
+        "description": "Alert (save)"
+    },
+    "alertSaveMenu": {
+        "message": "saved",
+        "description": "Alert menu (save)"
+    },
+    "menuSearch": {
+        "message": "search",
+        "description": "Menu (search)"
+    },
+    "menuSearchPlaceholder": {
+        "message": "movie title ...",
+        "description": "Menu (search placeholder)"
+    },
+    "download": {
+        "message": "download",
+        "description": "In result list"
+    },
+    "online": {
+        "message": "online",
+        "description": "In result list"
+    },
+
+    "yeahNewVersion": {
+        "message": "Yeah! New version",
+        "description": "Alert"
+    },
+    "updateNewVersion": {
+        "message": "how to update?",
+        "description": "Alert"
+    }
+}
