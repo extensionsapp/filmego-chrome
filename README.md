@@ -1,4 +1,8 @@
-# FILMEGO для Google Chrome
+# FILMEGO для Chrome / Opera
+
+<a href="http://goo.gl/S0XYPU"><img src="http://filmego.org/img/habrahabr/fe_chrome.png"/></a>
+
+<a href="http://goo.gl/GAoocY"><img src="http://filmego.org/img/habrahabr/fe_opera.png"/></a>
 
 Заходите на абсолютно любой информационный кино-сайт - смотрите и скачиваете своё кино!
 
